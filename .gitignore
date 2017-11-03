@@ -1,0 +1,5 @@
+.DS_Store
+.launches
+.settings
+Debug
+database/xor_float.net
